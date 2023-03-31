@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "410332457109",
+    "firebase_url": "https://cewproj-default-rtdb.firebaseio.com",
+    "project_id": "cewproj",
+    "storage_bucket": "cewproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410332457109:android:931855ec7a9eca815b939c",
+        "android_client_info": {
+          "package_name": "com.example.pdfmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410332457109-mi8e2apidrbld3c1ril3rhl105c4l9b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4EMLrbkigEP-lHz8qVe0ANu8nlLG4uuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410332457109-hhhilm9s0siem73g4bup1agkul02bi4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
